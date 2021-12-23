@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"chromebamb",
+			"bambi",
+			[
+				10,
+				10,
+				10
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"gf",
+		"bf",
+		""
+	],
+	"storyName": "Bambi? Oh no...",
+	"weekName": "Chromebamb",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
