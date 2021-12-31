@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-130,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "Secret idle"
+		},
+		{
+			"offsets": [
+				-130,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Secret idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/secret",
+	"position": [
+		-90,
+		270
+	],
+	"healthicon": "dave",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		102,
+		206
+	],
+	"camera_position": [
+		-160,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}
